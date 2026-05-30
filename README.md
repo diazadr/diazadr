@@ -1,4 +1,4 @@
-<h1 align="center">Welcome 👋, Thank you for visiting my repository 😁 but there's nothing here</h1>
+<h1 align="center">Welcome, Thank you for visiting my repository 😁 but there's nothing here</h1>
 
 <h3 align="center">
 I'm really happy that you're visiting me.  
